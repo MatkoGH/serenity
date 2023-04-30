@@ -1,4 +1,5 @@
-# Serenity
+# <img src="assets/serenity-icon.svg" alt="Serenity icon" style="height: 22px; padding-right: 4px;"> Serenity
+
 My WWDC23 Swift Student Challenge submission!
 
 Serenity is an app that helps its users cope with the hardships of stress and builds a path toward a future without it.
