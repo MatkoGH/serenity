@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DocumentThumbnailConfiguration</key>
+	<dict>
+		<key>accentColorHash</key>
+		<data>
+		6/q7qTn7Hlwv4XRjmaU338voNhXiyr5wmueGCkW8D5E=
+		</data>
+		<key>appIconHash</key>
+		<data>
+		KSnlY/LxiNlcRLsLAdJf0VwRKwiNW3RyvPMv9rPomkA=
+		</data>
+		<key>thumbnailIsPrerendered</key>
+		<false/>
+	</dict>
+</dict>
+</plist>

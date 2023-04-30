@@ -1,0 +1,316 @@
+{
+    "breathing": {
+        "box": {
+            "body": "This type of breathing involves counting to four on each inhale, hold for four, exhale for four, and hold for four. It's a simple and effective way to calm the mind and body.",
+            "difficulty": 1,
+            "duration": "4-5 min",
+            "steps": [
+                "Sit comfortably with your back supported and your feet on the floor. Close your eyes and relax your shoulders and jaw.",
+                "Slowly exhale through your mouth, getting all the oxygen out of your lungs. Count to four in your head as you do so.",
+                "Hold your breath for another count of four, without clamping your mouth or nose shut.",
+                "Slowly inhale through your nose, filling your lungs and abdomen with air. Count to four in your head as you do so.",
+                "Hold your breath for another count of four, feeling the air in your lungs and abdomen.",
+                "Repeat steps 2 to 5 for at least four minutes or until you feel calm."
+            ],
+            "title": "Box breathing"
+        },
+        "counting": {
+            "body": "This type of breathing involves counting your breaths as you inhale and exhale. It's a great way to focus your attention on your breathing while helping you to relax.",
+            "difficulty": 1,
+            "duration": "10-20 min",
+            "steps": [
+                "Sit comfortably with your back straight and your eyes closed. Relax your shoulders and jaw.",
+                "Breathe normally through your nose, without trying to control your breath. Notice the sensations of your breathing in your body.",
+                "As you exhale, count “one” silently in your mind. As you inhale, do not count. As you exhale again, count “two”. Continue counting only on your exhalations, up to “five”.",
+                "After you reach “five”, start a new cycle by counting “one” on your next exhalation. Do not count higher than “five”.",
+                "If you lose track of your count or find yourself counting higher than “five”, gently bring your attention back to your breath and start over from “one”.",
+                "Repeat this process for 10 to 20 minutes or until you feel calm and focused."
+            ],
+            "title": "Breath counting"
+        },
+        "diaphragmatic": {
+            "body": "This type of breathing involves using your diaphragm, the muscle that separates your chest from your abdomen. It's a slow, deep breathing technique that can help to reduce stress and anxiety.",
+            "difficulty": 2,
+            "duration": "5-10 min",
+            "steps": [
+                "Relax your shoulders and sit back or lie down on a flat surface with your knees bent and your head supported. You can use a pillow under your head and knees for comfort if you like.",
+                "Place one hand on your upper chest and the other just below your rib cage. This will allow you to feel your diaphragm move as you breathe.",
+                "Breathe in slowly through your nose, letting the air in deeply towards your lower belly. The hand on your chest should remain still, while the one on your belly should rise.",
+                "Tighten your abdominal muscles and let them fall inward as you exhale through pursed lips. The hand on your belly should move down to its original position.",
+                "Repeat this process for five to 10 minutes, several times a day if possible."
+            ],
+            "title": "Diaphragmatic breathing"
+        }
+    },
+    "homeBlurb": "Below, you can find effective ways to reduce stress and improve your mood. Whether you need a quick breathing exercise or have to finish some work there is something for you. Swipe through the prevention methods below and jump right in!",
+    "onboarding": {
+        "walkthrough": [
+            {
+                "title": "Welcome to Serenity!",
+                "body": [
+                    "Before we get started, let's take a moment to learn about what stress is, how it affects the human body, and the potential steps we can take to prevent it."
+                ]
+            },
+            {
+                "title": "What is stress?",
+                "body": [
+                    "Stress is a normal physical and mental reaction to life experiences. Everyone experiences stress from time to time.",
+                    "Anything from everyday responsibilities like work and family to serious life events such as a new diagnosis, war, or the death of a loved one can trigger stress.",
+                    "Stress can be positive and help you avoid danger or meet a deadline. But when you have too much to handle, your stress becomes negative and can affect your health, mood, productivity, relationships, and overall quality of life."
+                ]
+            },
+            {
+                "title": "What happens when you experience stress?",
+                "body": [
+                    "When you feel stressed, your body goes into \"fight-or-flight\" mode, which is a natural physical reaction that helps you stay safe in dangerous situations.",
+                    "However, if you have too much to handle for too long, your body may stay in the \"fight-or-flight\" mode even when there is no danger.",
+                    "This can lead to health problems, such as high blood pressure, heart disease, obesity, and diabetes."
+                ]
+            },
+            {
+                "body": [
+                    "Stress can also affect your mood, productivity, and relationships.",
+                    "When you're stressed, you may have trouble sleeping, concentrating, or making decisions. You may also be more likely to get sick, have accidents, or lash out at others."
+                ]
+            },
+            {
+                "title": "How can I cope with stress?",
+                "body": [
+                    "If you're feeling stressed, there are many healthy ways to cope or deal with it.",
+                    "Some of the ways you can manage stress is by exercising, performing relaxation techniques, and spending time with loved ones.",
+                    "If you're struggling to manage stress on your own, you can always talk to your doctor or a mental health professional."
+                ]
+            },
+            {
+                "body": [
+                    "In this application, you will discover different ways to prevent and relieve stress, whether it be through reading and following steps, or trying the custom-built activities.",
+                    "Alright, that's enough reading. It's time to explore and find out what works for you!"
+                ]
+            }
+        ]
+    },
+    "pomodoro": {
+        "captions": {
+            "break": [
+                "Drop your pencil and do something else now!",
+                "Get away from your work! Enjoy this time.",
+                "I think this app is amazing.",
+                "Work.exe has stopped working. Try again later."
+            ],
+            "working": [
+                "Let's finish something today!",
+                "Let's work on something!",
+                "No need to worry! You'll finish this in no time.",
+                "Unfinished work? What's that? Haven't heard of it."
+            ]
+        },
+        "titles": {
+            "break": "Take a break!",
+            "working": "Work on something!"
+        }
+    },
+    "preventions": {
+        "breathing": {
+            "benefits": [
+                {
+                    "title": "Reduced stress and anxiety.",
+                    "body": "When you breathe deeply, you send a signal to your brain to relax. This can help to reduce the physical and emotional symptoms of stress and anxiety, such as muscle tension, racing heart, and difficulty sleeping."
+                },
+                {
+                    "title": "Improved sleep quality.",
+                    "body": "Deep breathing can help to slow your heart rate and relax your muscles, which can make it easier to fall asleep and stay asleep."
+                },
+                {
+                    "title": "Increased energy levels and focus.",
+                    "body": "When you breathe deeply, you take in more oxygen, which can help to improve your energy levels, resulting in greater focus."
+                }
+            ],
+            "blurb": "Learn to focus on your breathing through exercises that can help reduce stress by slowing the heart rate and calming the mind.",
+            "walkthrough": [
+                {
+                    "title": "Breathing exercises.",
+                    "body": [
+                        "Breathing exercises are a great way to manage stress.",
+                        "When you're stressed, your body goes into 'fight or flight' mode, which causes your heart rate and breathing to increase. This can make it difficult to think clearly and make rational decisions.",
+                        "Breathing exercises can help to slow your heart rate and breathing, which can help you to calm down and relax."
+                    ]
+                },
+                {
+                    "body": [
+                        "There are several different styles of breathing exercises.",
+                        "Some examples include diaphragmatic breathing, box breathing, and breath counting, which are explored in detail in this app.",
+                        "Each exercise helps to calm your mind and body in its own way, so you don't need to use only one."
+                    ]
+                },
+                {
+                    "body": [
+                        "Breathing exercises are great because they can be done anywhere and at anytime, but they are especially helpful when you are feeling stressed.",
+                        "If you find yourself feeling overwhelmed, take a few minutes to practice some deep breathing exercises. You may be surprised at how quickly they can help you to calm down and relax.",
+                        "Give this a try and see if it works for you."
+                    ]
+                }
+            ]
+        },
+        "pomodoro": {
+            "benefits": [
+                {
+                    "title": "Increased focus and productivity.",
+                    "body": "The Pomodoro Technique helps you to focus on one task at a time and to avoid distractions. This can lead to increased productivity and a better quality of work."
+                },
+                {
+                    "title": "Reduced stress and anxiety.",
+                    "body": "Taking regular breaks throughout the day can help to reduce stress and anxiety. The Pomodoro Technique encourages you to take short breaks after each work period, which can help you to stay refreshed and focused."
+                },
+                {
+                    "title": "Improved time management skills.",
+                    "body": "The Pomodoro Technique can help you to improve your time management skills. By breaking down large tasks into smaller, more manageable chunks, you can more easily stay on track and meet deadlines."
+                },
+                {
+                    "title": "Improved overall well-being.",
+                    "body": "The Pomodoro Technique can help you to improve your overall well-being by reducing stress, improving focus, and increasing productivity."
+                }
+            ],
+            "blurb": "The Pomodoro Technique is a time management tool that can help you stay focused and productive by breaking your workday into manageable chunks.",
+            "walkthrough": [
+                {
+                    "title": "The Pomodoro technique.",
+                    "body": [
+                        "The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. It uses a timer to break down work into intervals, typically 25 minutes in length, separated by short breaks.",
+                        "The technique is designed to help you focus on your work, avoid distractions and stay productive by breaking your workday into manageable chunks. It can also help you avoid burnout by encouraging you to take regular breaks.",
+                        "The technique is simple but effective, and has been used by millions of people around the world.",
+                        "Give it a try and see if it works for you!"
+                    ]
+                }
+            ]
+        },
+        "tips": {
+            "blurb": "There are many different ways to reduce stress. Explore tips that work for you and make a plan to incorporate them into your life.",
+            "further_reading": "Reading stress-relief tips can help you to identify and manage your stressors, which can lead to a reduction in overall stress levels. Furthermore, reading tips can give you a sense of control over your life, causing you to be more relaxed, which in turn means your mind is more open to new ideas, leading to increased creativity. Read some tips and see if they work for you!"
+        }
+    },
+    "tips": {
+        "entries": [
+            {
+                "benefits": [
+                    "Once you know what your stressors are, you can start to develop strategies for dealing with them.",
+                    "You can also start to avoid or minimize your exposure to stressors."
+                ],
+                "description": "One of the best ways to reduce stress is to identify the things that are causing you stress in the first place. Once you know what your stressors are, you can start to develop strategies for dealing with them. For example, if you find that you're stressed about work, you could try setting boundaries between your work life and your personal life, or you could try delegating tasks to others.",
+                "goal": "Identify the things that are causing you stress.",
+                "improved_qualities": [
+                    "lifestyle",
+                    "understanding"
+                ],
+                "title": "Identify your stressors"
+            },
+            {
+                "benefits": [
+                    "Breaks can help you to clear your head and come back to your work or other tasks refreshed.",
+                    "They can also help you to avoid burnout."
+                ],
+                "description": "It's important to take breaks throughout the day, even if it's just for a few minutes. Get up and move around, step outside for some fresh air, or do something else that will help you to relax. Taking breaks can help you to stay focused and productive, and it can also help to reduce stress levels.",
+                "goal": "Take breaks throughout the day to relax and de-stress.",
+                "improved_qualities": [
+                    "energy",
+                    "focus",
+                    "productivity",
+                    "sleep"
+                ],
+                "title": "Take breaks"
+            },
+            {
+                "benefits": [
+                    "Exercise releases endorphins, which have mood-boosting effects.",
+                    "It can also help to improve your sleep quality, which can also help to reduce stress.",
+                    "Exercise can also help to improve your self-esteem and confidence."
+                ],
+                "description": "Exercise is a great way to reduce stress. It releases endorphins, which have mood-boosting effects. Exercise can also help to improve your sleep quality, which can also help to reduce stress. Exercise can also help to improve your self-esteem and confidence.",
+                "goal": "Exercise regularly to reduce stress.",
+                "improved_qualities": [
+                    "confidence",
+                    "mood",
+                    "self-esteem",
+                    "sleep"
+                ],
+                "title": "Exercise"
+            },
+            {
+                "benefits": [
+                    "Sleep helps to improve your mood, energy levels, and overall health, all of which can help to reduce stress.",
+                    "It can also help to improve your memory and concentration."
+                ],
+                "description": "It's important to get enough sleep. When you're sleep-deprived, you're more likely to feel stressed. Getting enough sleep can help to improve your mood, energy levels, and overall health, all of which can help to reduce stress. Sleep can also help to improve your memory and concentration.",
+                "goal": "Get 7-8 hours of sleep each night.",
+                "improved_qualities": [
+                    "energy",
+                    "focus",
+                    "health",
+                    "lifestyle",
+                    "memory",
+                    "sleep"
+                ],
+                "title": "Get enough sleep"
+            },
+            {
+                "benefits": [
+                    "Eating a healthy diet can help improve your overall mood and energy levels, which can make it easier to cope with stress.",
+                    "It can also help to improve your sleep quality, which can also help to reduce stress.",
+                    "It also helps to improve your skin and hair."
+                ],
+                "description": "Eating a healthy diet can help to reduce stress. Choose healthy foods that are high in nutrients and low in processed foods, sugar, and unhealthy fats. Eating a healthy diet can help to improve your overall mood and energy levels, which can make it easier to cope with stress. A healthy diet can also help to improve your sleep quality, which can also help to reduce stress.",
+                "goal": "Choose healthy foods that are high in nutrients and low in processed foods, sugar, and unhealthy fats.",
+                "improved_qualities": [
+                    "energy",
+                    "lifestyle",
+                    "mood",
+                    "yummy"
+                ],
+                "title": "Eat a healthy diet"
+            },
+            {
+                "benefits": [
+                    "Social support is important for reducing stress.",
+                    "Spending time with loved ones can help to reduce stress by providing you with a sense of belonging and support.",
+                    "It can also help to improve your mood and outlook on life."
+                ],
+                "description": "Social support is important for reducing stress. Spend time with friends and family who make you feel good. Spending time with loved ones can help to reduce stress by providing you with a sense of belonging and support. It can also help to improve your mood and outlook on life.",
+                "goal": "Spend time with friends and family who make you feel good.",
+                "improved_qualities": [
+                    "lifestyle",
+                    "mood",
+                    "social"
+                ],
+                "title": "Spend time with loved ones"
+            },
+            {
+                "benefits": [
+                    "These techniques can help you to calm your mind and body, which can help to reduce stress levels.",
+                    "They can also help to improve your sleep quality.",
+                    "They also help to improve your focus and concentration"
+                ],
+                "description": "There are many different relaxation techniques that you can learn. Some popular techniques include meditation, yoga, and deep breathing. These techniques can help you to calm your mind and body, which can help to reduce stress levels. They can also help to improve your sleep quality. They can also help to improve your focus and concentration.",
+                "goal": "Learn relaxation techniques such as meditation, yoga, and deep breathing.",
+                "improved_qualities": [
+                    "focus",
+                    "lifestyle",
+                    "mood",
+                    "sleep"
+                ],
+                "title": "Learn to relax"
+            },
+            {
+                "benefits": [
+                    "A therapist can teach you coping skills and help you develop a stress management plan.",
+                    "A therapist can also help you to identify the root of your stress and develop strategies for dealing with it."
+                ],
+                "description": "If you're struggling to manage your stress on your own, don't hesitate to seek professional help. A therapist can teach you coping skills and help you develop a stress management plan. A therapist can also help you to identify the root of your stress and develop strategies for dealing with it.",
+                "goal": "If you're struggling to manage your stress on your own, don't hesitate to seek professional help.",
+                "improved_qualities": [
+                    "coping",
+                    "understanding"
+                ],
+                "title": "Seek professional help"
+            }
+        ]
+    }
+}
