@@ -60,4 +60,4 @@ Any stress prevention tip you’ll ever need. *Plus or minus a few for the sake 
 
 |1. Example tip 1|2. Example tip 2|3. Example tip 3|
 |:---------------|:---------------|:---------------|
-|![Example tip 1](screenshots/tips/tip-1.png)|![Example tip 2](screenshots/tips/tip-2.png)|![Example tip 3](screenshots/tips/tip-3.png)|
+|![Example tip 1](screenshots/tips/tip-1.png)|![Example tip 2](screenshots/tips/tip-3.png)|![Example tip 3](screenshots/tips/tip-2.png)|
